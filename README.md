@@ -1,8 +1,8 @@
-# learnf
+##学习flutter
+试写了一下官网上的单词的无限循环列表，总结一下体会
 
-A new Flutter project.
+给我最大的感觉就是dart真的难写，可读性真的太差了，写这么一个小功能的小demo就乱的我直恶心，代码也不是很好理解
 
-## Getting Started
+仅仅只是写了一个展示的列表，甚至没有什么复杂的逻辑，页面也非常简单，代码就已经很难看了，如果真的用来开发不知道变成什么样
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+所以如果这个问题没有解决，我会持观望态度，当然了如果flutter真的大火了我也会重新考虑，现在就先这样吧
